@@ -1,0 +1,35 @@
+commit 36fbeb3812e0ff6a91963edc0dbce291850e16c6
+Merge: 09b1b0d 8783a4e
+Author: Aaron Goodfellow <amgoodfellow@oakland.edu>
+Date:   Wed Sep 26 21:46:53 2018 -0400
+
+    Merge pull request #2 from amgoodfellow/implementation
+    
+    Adds implementation for static song method
+
+commit 09b1b0d0751d431d8c49b1507af84569a2002009
+Merge: 44f523c 1b776a8
+Author: Aaron Goodfellow <amgoodfellow@oakland.edu>
+Date:   Wed Sep 26 21:46:14 2018 -0400
+
+    Merge pull request #1 from amgoodfellow/interface
+    
+    Adding main class with method names and comments
+
+commit 8783a4ed4772d56cd24449031ad69dac3c30d24f
+Author: Aaron Goodfellow <amgoodfellow@oakland.edu>
+Date:   Wed Sep 26 21:45:08 2018 -0400
+
+    Adds implementation for static song method
+
+commit 1b776a804aa62c96f44cad71670b32a2e3d0fc2d
+Author: Aaron Goodfellow <amgoodfellow@oakland.edu>
+Date:   Wed Sep 26 21:34:11 2018 -0400
+
+    Adding main class with method names and comments
+
+commit 44f523c9b49c379d5d211bc2f4a74719ca510f60
+Author: Aaron Goodfellow <amgoodfellow@oakland.edu>
+Date:   Wed Sep 26 21:20:21 2018 -0400
+
+    Adds readme describing goal
