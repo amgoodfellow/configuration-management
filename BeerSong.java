@@ -6,7 +6,7 @@ public class BeerSong {
      * other function: "Ninety_Nine_Bottles_of_Beer"
      */
     public static void main(String[] args) {
-
+        Ninety_Nine_Bottles_of_Beer();
     }
 
     /**
@@ -15,7 +15,19 @@ public class BeerSong {
      * 99 bottles of beer song
      */
     public static void Ninety_Nine_Bottles_of_Beer() {
-
+        for (int i = 99; i > 1; i--) {
+            String a = String.valueOf(i);
+            System.out.println(a + " bottles of beer on the wall, " + a + " bottles of beer");
+            if (i == 2) {
+                System.out.println(
+                        "take one down, pass it around " + String.valueOf(i - 1) + " bottle of beer on the wall");
+            } else {
+                System.out.println(
+                        "take one down, pass it around " + String.valueOf(i - 1) + " bottles of beer on the wall");
+            }
+        }
+        System.out.println("1 bottle of beer on the wall, 1 bottle of beer\n"
+                + "take it down, pass it around, no more bottles of beer on the wall");
     }
 
 }
